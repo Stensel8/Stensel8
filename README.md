@@ -1,7 +1,5 @@
 Hey, glad you stopped by.
 
-My primary home is currently on my own Git / CI/CD server and most projects have been moved away from GitHub and the commercial platforms.
-
 You can also find me on [Codeberg](https://codeberg.org/Stensel8) and [GitLab](https://gitlab.com/Stensel8) - and [GitHub](https://github.com/Stensel8) too, [if it's up](https://mrshu.github.io/github-statuses/).
 
 ---
