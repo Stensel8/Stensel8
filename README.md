@@ -1,3 +1,3 @@
-Hey, glad you stopped by.
+Hey, glad you stopped by. 
 
-You can also find me on [Codeberg](https://codeberg.org/Stensel8) and [CodeTrunk](https://repos.codetrunk.eu/Stensel8)
+This profile is mirrored. Find my EU-hosted repositories on [Codeberg](https://codeberg.org/Stensel8) and [CodeTrunk](https://repos.codetrunk.eu/Stensel8).
