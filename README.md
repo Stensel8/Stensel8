@@ -2,8 +2,11 @@
 
 | Platform | Purpose |
 |---|---|
-| [GitHub](https://github.com/Stensel8) | My main account. Active development happens here. |
-| [CodeTrunk](https://repos.codetrunk.eu/Stensel8) | EU-hosted mirror of my GitHub repositories, kept as a backup. |
-| [Codeberg](https://codeberg.org/Stensel8) | EU-hosted space for smaller side projects, mostly kept private. |
+| [CodeTrunk](https://repos.codetrunk.eu/Stensel8) | Home of my own projects. Active development happens here. |
+| [Codeberg](https://codeberg.org/Stensel8) | Smaller side projects, mostly kept private. |
+| [GitHub](https://github.com/Stensel8) | Contributing to other projects: pull requests, issues and discussions. |
 
-Found me on CodeTrunk? Everything here is mirrored from **[GitHub](https://github.com/Stensel8)**. I keep this copy so my work stays safe, even if something happens to my GitHub account.
+I keep my own code in the EU, on platforms where I have more control over it.
+GitHub is where I join in on other people's projects: sending fixes, reporting bugs and thinking along about where things should go.
+
+Looking for my own work? Head over to **[CodeTrunk](https://repos.codetrunk.eu/Stensel8)**.
