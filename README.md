@@ -1,14 +1,22 @@
 # Hey, glad you stopped by
 
+I'm Sten, an student working toward platform engineering and cloud architecture.
+Mostly into Linux, self-hosting and open source.
 
-| Platform                                         | Purpose                                                                     |
-| ------------------------------------------------ | --------------------------------------------------------------------------- |
-| [CodeTrunk](https://repos.codetrunk.eu/Stensel8) | Home of my own projects. Active development happens here.                   |
-| [Codeberg](https://codeberg.org/Stensel8)        | Smaller side projects, mostly web-based.                                    |
-| [OpenCommit](https://opencommit.eu/Stensel8)     | Same idea as my other Forgejo instances: my own projects, hosted in the EU. |
-| [GitHub](https://github.com/Stensel8)            | Contributing to other projects: pull requests, issues and discussions.      |
+## Where to find my code
 
+| Platform                                         | What it's for                                                   |
+| ------------------------------------------------ | --------------------------------------------------------------- |
+| [OpenCommit](https://opencommit.eu/Stensel8)     | **Main home** for my own projects, hosted in the Netherlands 🇳🇱 |
+| [CodeTrunk](https://repos.codetrunk.eu/Stensel8) | Mirror of my projects                                           |
+| [Codeberg](https://codeberg.org/Stensel8)        | Smaller side projects (currently parked)                        |
+| [GitHub](https://github.com/Stensel8)            | Contributing to other people's projects                         |
 
-I'm present on all four and mirror my repositories back and forth between these servers — purely for uptime and availability, because GitHub/Microsoft can take things down. So if you're looking for a specific repo, you'll have to search for it yourself: it's probably on more than one of them.
+My repositories are mirrored across these platforms, so no single provider can take them offline.
+Looking for something specific? Start at **OpenCommit**. It's probably on (some of) the others too.
 
-GitHub is where I join in on other people's projects: sending fixes, reporting bugs and thinking along about where things should go.
+## Why I'm moving away from GitHub
+
+On GitHub I still contribute to other people's projects by sending fixes, reporting bugs and joining discussions.
+My own work lives elsewhere, though. I'm not a fan of the direction Microsoft is taking the platform,
+so expect me to be less active here over time.
